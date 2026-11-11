@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Wed, 11 Nov 2026 10:02:23 -0500</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.2</h2>
+<ul>
+  <li><b>Short work addresses.</b> Typing a name and a slash, like <code>wiki/</code>, opens that address on your network instead of searching for it. Once a name has loaded, longer addresses under it (<code>go/roadmap</code>) open too.</li>
+  <li><b>Scroll bars match the page.</b> A site that has a dark design but shows itself light, such as an encyclopedia set to Light, no longer gets a dark scroll bar beside a white page, and the scroll bar follows when you change the site's own theme.</li>
+  <li>The camera and microphone indicator now reads properly to VoiceOver.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.2/Koan-0.1.2.zip" length="18228098" type="application/octet-stream" sparkle:edSignature="S7vGfAd7Oho5gApwSYi5C6lc9LNOKuj93F72ul4No357FUTZKDvs6daTYuHCA1r8aunmKIJ/UFH8urIF/7ZiAg=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Wed, 11 Nov 2026 08:34:13 -0500</pubDate>
             <sparkle:version>2</sparkle:version>
@@ -45,6 +60,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: YXRJxaaSf/J87Yqaqh9SBtFq4pnlbw+twVIcSDdg8T6PW5Jf7PL0vLnxiOgjVT3d/JAmQ7u7xD10T8+/3b7wCQ==
-length: 3738
+edSignature: KcmOeq4+IWIRuE3amrhj2L+TiOIIO9QET08hjbawGyUR2Wy7yk+7VPUEyH7QamoNEh56AJqnb2PO3KFbfUjUCA==
+length: 5006
 -->
