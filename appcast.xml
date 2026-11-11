@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Koan</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 11 Nov 2026 07:09:20 -0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.0</h2>
+<p>The first Koan: Safari's engine with Zen's sidebar.</p>
+<ul>
+  <li><b>A sidebar that is the browser.</b> Workspaces with their own colours, essentials, pinned tabs, nested folders and live folders that follow a feed or a GitHub repository. Collapse it to icons, put it on either side, or hide it in compact mode.</li>
+  <li><b>More than one page at a time.</b> Split view with up to four panes, and Glance for a quick look at a link without leaving the page.</li>
+  <li><b>Reading.</b> Reader mode, find in page, on-device translation, page zoom remembered per site, and Hide Distracting Items.</li>
+  <li><b>Private by default.</b> Trackers and ads are blocked, sites ask before using the camera, microphone or location, private windows leave nothing behind, and Koan sends no telemetry.</li>
+  <li><b>Kept apart.</b> Containers give a workspace its own sign-ins; profiles are separate Koans with their own everything.</li>
+  <li><b>Your things come with you.</b> Import tabs, bookmarks and history from Zen, Chrome, Arc and Safari. History and bookmarks are searchable from the address bar.</li>
+  <li><b>Passwords and AutoFill.</b> Saved logins, contact details and cards are kept in your keychain and filled with Touch ID.</li>
+  <li><b>Extensions and web apps.</b> Safari and Chrome web extensions run in Koan, and any site can open as an app in a window of its own.</li>
+  <li><b>Built for agents, when you want them.</b> <code>koan</code>, a command-line tool and MCP server, ships inside the app and stays off until you turn it on in Settings.</li>
+  <li><b>Updates</b> are signed and verified before they install.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.0/Koan-0.1.0.zip" length="18187658" type="application/octet-stream" sparkle:edSignature="VUicaNbyFeJ2aOPu5vrBYbloJDBnfiLnh/7RsLT95PZOClvxj8kgw3pF5HDHk+UYFbXj6t4tf8vhwxOgXMHsDw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: MEBJYngzm48woNPGEKEF9JOWqFzwgUcJNpxaEWaeOXFi7UHGabsXLFPaHAqXev26ctsG/i9rkjGodnJsva6wDg==
+length: 2751
+-->
