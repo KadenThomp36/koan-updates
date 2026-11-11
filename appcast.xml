@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Wed, 11 Nov 2026 15:41:17 -0500</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.4</h2>
+<ul>
+  <li><b>A tab switcher.</b> Hold ⌃ and press Tab: a panel shows your tabs as page previews, most recently used first. Keep pressing Tab (or the arrow keys) to move, let go of ⌃ to switch, Esc to cancel, W to close the highlighted tab. A quick ⌃Tab goes straight back to the tab you were just on. Settings ▸ Tabs ▸ Tab Switching chooses between recently used and sidebar order, and whether the panel shows.</li>
+  <li><b>Middle click.</b> A middle click on a tab closes it, as ⌘W would. On a link, a bookmark, a history row or the back and forward buttons it opens the page in a background tab. On empty sidebar space it opens a new tab.</li>
+  <li><b>Other keyboards.</b> On German, French, Swiss, Nordic and Italian keyboards the next and previous tab shortcuts (⇧⌘] and ⇧⌘[) couldn't be pressed. They now sit on the keys macOS moves them to, and Settings ▸ Shortcuts says where each shortcut is on your keyboard.</li>
+  <li><b>Full screen.</b> The sidebar's toolbar no longer leaves a gap where the window buttons were, and a sidebar on the right no longer keeps an empty strip above the page.</li>
+  <li><b>Dragging a tab to another window.</b> The window it left now moves on to the tab that was next to it, and never lands on a tab the other window is showing.</li>
+  <li><b>Smaller fixes.</b> A link opened from a glance in a private window stays in that window. With Reduce Motion on, the welcome steps, folder rows and a web app's command bar fade instead of sliding. The extensions overflow button has a proper name for VoiceOver.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.4/Koan-0.1.4.zip" length="18558195" type="application/octet-stream" sparkle:edSignature="36knkl3gKK6aHx/56ZXrItuyRcyTBtsJSowt2F81m+n6w8WDLOiwXn8pAett+TKLZMIjq12/ESBGWGn3ue15DA=="/>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Wed, 11 Nov 2026 11:34:25 -0500</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -74,6 +92,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: zPfXCJz1f4fnDR9R01MLOS4jEjI6mVlA9IVAr2CXy+jeLMKvEDScolAXbNPiVNa2C3w3qkHwMScgisfoAXwvDw==
-length: 6184
+edSignature: fkI3kukiBciYHNKz0lH78+OBisDKZIPeQfqR1UxJeQ0ZKCmHXy45psLr3TsPu14bUGYxQxpEK6khLBJ2d4qkBg==
+length: 8441
 -->
