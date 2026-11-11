@@ -1,8 +1,24 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Koan</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 11 Nov 2026 08:34:13 -0500</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.1</h2>
+<ul>
+  <li><b>A smoother sidebar.</b> In compact mode the sidebar now glides in and out as one piece, and the page settles once instead of resizing as it goes.</li>
+  <li><b>Agents reach further.</b> A click, menu or drop aimed at a sidebar row that is scrolled out of view now scrolls it into view first.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.1/Koan-0.1.1.zip" length="18208477" type="application/octet-stream" sparkle:edSignature="hfLTEfjcWlPEm3IbLsj24UMITwch//4TZ60jWyG4YIZ2Jvd7szqqzDJF+VgsS4/5YdQjcN1914VwUcNt4+XPDg=="/>
+        </item>
         <item>
             <title>0.1.0</title>
             <pubDate>Wed, 11 Nov 2026 07:09:20 -0500</pubDate>
@@ -24,10 +40,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <li><b>Updates</b> are signed and verified before they install.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.0/Koan-0.1.0.zip" length="18187658" type="application/octet-stream" sparkle:edSignature="VUicaNbyFeJ2aOPu5vrBYbloJDBnfiLnh/7RsLT95PZOClvxj8kgw3pF5HDHk+UYFbXj6t4tf8vhwxOgXMHsDw=="></enclosure>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.0/Koan-0.1.0.zip" length="18187658" type="application/octet-stream" sparkle:edSignature="VUicaNbyFeJ2aOPu5vrBYbloJDBnfiLnh/7RsLT95PZOClvxj8kgw3pF5HDHk+UYFbXj6t4tf8vhwxOgXMHsDw=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: MEBJYngzm48woNPGEKEF9JOWqFzwgUcJNpxaEWaeOXFi7UHGabsXLFPaHAqXev26ctsG/i9rkjGodnJsva6wDg==
-length: 2751
+</rss>
+<!-- sparkle-signatures:
+edSignature: YXRJxaaSf/J87Yqaqh9SBtFq4pnlbw+twVIcSDdg8T6PW5Jf7PL0vLnxiOgjVT3d/JAmQ7u7xD10T8+/3b7wCQ==
+length: 3738
 -->
