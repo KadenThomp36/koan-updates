@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.9</title>
+            <pubDate>Thu, 12 Nov 2026 15:06:52 -0500</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.9</h2>
+<ul>
+  <li><b>Saved logins belong to a space.</b> A login can be kept to one container, to the default one, or offered everywhere. In a workspace with its own container Koan offers that container's logins first, then the ones kept everywhere, and never another container's, so a work space doesn't offer your personal account for the same site. New logins are saved for the space you're in (the prompt lets you choose Everywhere). The Passwords window shows each login's container, filters by it and moves logins between them. Everything saved before this version is offered everywhere, as it was.</li>
+  <li><b>Import passwords from another browser.</b> Koan ▸ Import Passwords… reads a profile of Chrome, Arc, Brave, Edge, Vivaldi, Ardia or another Chromium browser straight into the container you pick. macOS asks you to allow Koan to use that browser's key from your keychain; only you can start it. A CSV can go into a chosen container too.</li>
+  <li><b>Import from Ardia.</b> File ▸ Import From Browser… brings each Ardia space in as a workspace with its own container: tiles become essentials, pinned tabs stay pinned with their names, pinned groups become folders, and bookmarks and history come too. It adds to what you have, takes a backup first, and running it again adds nothing twice.</li>
+  <li><b>One Glance setting for the click.</b> "⌘-click opens a Glance" from 0.1.8 is gone: the "Open links in a Glance with" menu already offers ⌘-Click, and if you had the switch on, the menu is set to ⌘-Click for you. With ⌘-Click chosen, middle-click and ⇧⌘-click still open tabs.</li>
+  <li><b>A page can no longer open a Glance by itself,</b> or use a faked ⌘-click to open background tabs; only your own clicks do.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.9/Koan-0.1.9.zip" length="19841050" type="application/octet-stream" sparkle:edSignature="vsZsiJP9bfU9qPQUSD4Vp28PnsflZz+uqy50IRtmV5DkT1DoxB1q5AwvAsvCubX62W+PktxTR93FVvr9ZayCBA=="/>
+        </item>
+        <item>
             <title>0.1.8</title>
             <pubDate>Thu, 12 Nov 2026 13:46:46 -0500</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -159,6 +176,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: yxiJybV2QkT9BK9Xw5I9vq+VaCocU1h5EjL86BmoOckHMiYGUbfkySTLiMBrZsbmLBgw9fo4VQyO7vZVUxwMAg==
-length: 16549
+edSignature: mJ+NYNcLtxIw1yxkI86UnrgF8orf/xoI06UPlfD4J5VyS0mpO9IWXEhV/QDdIMuAOmnXlVyD9Gly9l+RKkBPDA==
+length: 18987
 -->
