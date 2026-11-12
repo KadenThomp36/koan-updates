@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Thu, 12 Nov 2026 01:06:13 -0500</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.5</h2>
+<ul>
+  <li><b>Pages run faster.</b> One of Koan's own page scripts was slowing every click and keypress on every site. On Speedometer 3.1 Koan went from 23% behind Safari to about 5% behind. Pages with many images also load faster with content blocking on.</li>
+  <li><b>Links that open other apps.</b> A link meant for another app (Slack, Zoom, Teams, VS Code, Mail) used to do nothing. Koan now asks "Open this link in Slack?" and hands it over; tick "Always open Slack links from this site" and it won't ask again. A tab that was opened only to launch the app closes itself. Settings ▸ Privacy &amp; Security has the switch and the list of sites you've allowed.</li>
+  <li><b>Tab size.</b> Settings ▸ Appearance ▸ Tab size: Compact is the sidebar as it was; Comfortable makes the rows, titles and icons a little larger.</li>
+  <li><b>The sidebar follows you.</b> When you switch to a tab that isn't in view (⌃Tab, ⌘T, ⌘1–9, a link that opens in front), the list scrolls just enough to show it. It stays put while you're scrolling or dragging, and for tabs opened in the background.</li>
+  <li><b>Hundreds of tabs cost much less.</b> In a workspace of a hundred tabs or more, Koan builds only the rows near the part of the sidebar you can see. With 300 tabs it uses about 70 MB less memory, starts sooner, and switching workspaces and compact mode are several times smoother.</li>
+  <li><b>History and Bookmarks.</b> On macOS 26 these lists could ignore a scroll or take seconds to respond when they were long. They are built differently now, use less memory and scroll faster.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.5/Koan-0.1.5.zip" length="18900563" type="application/octet-stream" sparkle:edSignature="GqefwNMiThUfvtMWFNDJAq3k8401J6IGmNbVejyYTYjMnKv/OmFHoW9u7LWPXlxqqXCD/Bfja1F8zJ+8uN2MAA=="/>
+        </item>
+        <item>
             <title>0.1.4</title>
             <pubDate>Wed, 11 Nov 2026 15:41:17 -0500</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -92,6 +110,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: fkI3kukiBciYHNKz0lH78+OBisDKZIPeQfqR1UxJeQ0ZKCmHXy45psLr3TsPu14bUGYxQxpEK6khLBJ2d4qkBg==
-length: 8441
+edSignature: PL6GK8Kg0YqsmNTOKm+xvC8VOXgZIMvtC/yx7Y9WuDGSR2NRJnShR9vN8E+SK7cUvdnEeNRuVJWp+Bgi80UxAw==
+length: 10724
 -->
