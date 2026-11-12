@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.6</title>
+            <pubDate>Thu, 12 Nov 2026 06:42:44 -0500</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.6</h2>
+<ul>
+  <li><b>Sync, through your own iCloud.</b> Settings ▸ Sync is off until you turn it on. With it on, your workspaces, pinned tabs, folders, essentials and bookmarks are the same on every Mac signed in to your Apple Account. History and a list of each Mac's open tabs are separate switches, off to begin with; Library ▸ Other Devices shows what's open elsewhere. Private windows, passwords and website data never sync. Koan has no servers of its own: the data sits in your iCloud, where only you can read it. The welcome flow offers the switch to new installs.</li>
+  <li><b>When sync can't run, it says why.</b> Not signed in to iCloud, iCloud Drive off, storage full, no network: each has its own sentence in Settings ▸ Sync instead of an error code.</li>
+  <li><b>Compact mode with hundreds of tabs.</b> Sliding the sidebar in and out had become slower in 0.1.5 for workspaces of several hundred tabs. It is smooth again: about a third less time per frame at 300 tabs.</li>
+  <li><b>Saved logins and AutoFill move to a newer keychain.</b> The first launch of this version moves Koan's saved logins, AutoFill details and live-folder token from the login keychain to the Mac's data-protection keychain. Nothing to do, and nothing should ask for a password.</li>
+  <li><b>Bookmarks arriving by sync keep their dates</b>, so sorting by date added is the same on every Mac.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.6/Koan-0.1.6.zip" length="18994745" type="application/octet-stream" sparkle:edSignature="m8rCYOjivsrNCLQstrglGMZAS6s5XruS+tptdm8Oot5gbD64IHkO7uwxuXopQxVhMwiTrfnXhuyspGhVTEFdAQ=="/>
+        </item>
+        <item>
             <title>0.1.5</title>
             <pubDate>Thu, 12 Nov 2026 01:06:13 -0500</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -110,6 +127,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: PL6GK8Kg0YqsmNTOKm+xvC8VOXgZIMvtC/yx7Y9WuDGSR2NRJnShR9vN8E+SK7cUvdnEeNRuVJWp+Bgi80UxAw==
-length: 10724
+edSignature: +HRiSjtBZ4eoUIsIqWowW472sjcGzuD3ZLxnM9aUAg4v/dVjYRPO3NhktWvMYAXHzqwypb+hBRliCOXfcjBJAw==
+length: 12795
 -->
