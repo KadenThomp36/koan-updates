@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.8</title>
+            <pubDate>Thu, 12 Nov 2026 13:46:46 -0500</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.8</h2>
+<ul>
+  <li><b>Open links in a Glance by default.</b> Two new switches in Settings ▸ Tabs ▸ Glance, both off until you turn them on. <i>Open new-tab links in a Glance</i>: a link the page would open in a new tab shows in a Glance over the page instead. <i>⌘-click opens a Glance</i>: ⌘-click shows the link in a Glance instead of a background tab; middle-click and ⇧⌘-click still open tabs. Sign-in, payment and other pop-up windows open as they always did, and your routes still decide which workspace a link belongs to.</li>
+  <li><b>Agents can't touch your clipboard.</b> Anything done through agent control (Koan's own Copy commands, copy and paste in pages and fields) now uses a clipboard of its own. Yours is read and changed only by what you do yourself.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.8/Koan-0.1.8.zip" length="19236400" type="application/octet-stream" sparkle:edSignature="3xMvXSVLkDtdrju/y9Y3s7U6ehcpYxOKrOkV8yBZ4uQlT1ep1p7YiWkbV/hsJdFnSj+ggAoYoVA57yt01b79DA=="/>
+        </item>
+        <item>
             <title>0.1.7</title>
             <pubDate>Thu, 12 Nov 2026 12:55:00 -0500</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -145,6 +159,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: SS0UUuxfiy6dvoZxQMmxwNs3VWEkYjpnb7w8ulEVipQhnRm73iW5YAvi2b+/zOOvZSlMgMH8phcpnQKHj+QHCw==
-length: 15085
+edSignature: yxiJybV2QkT9BK9Xw5I9vq+VaCocU1h5EjL86BmoOckHMiYGUbfkySTLiMBrZsbmLBgw9fo4VQyO7vZVUxwMAg==
+length: 16549
 -->
