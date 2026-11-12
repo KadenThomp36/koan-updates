@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.7</title>
+            <pubDate>Thu, 12 Nov 2026 12:55:00 -0500</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.7</h2>
+<ul>
+  <li><b>The page moves with the sidebar.</b> Turning compact mode on or off, or collapsing the sidebar to icons, used to slide the sidebar and then snap the page to its new width. The page's edge now follows the sidebar's edge the whole way, its content reflowing as it goes, and it is faster with hundreds of tabs than the snap was.</li>
+  <li><b>Routes that keep a site out of a workspace.</b> Settings ▸ Tabs ▸ Routing has a second list, Never Open: "github.com never in Personal". A matching link opened from that workspace goes to one you choose, or to the last workspace you used that it may open in. The tab menu's Add Route for Domain offers it too. Tabs already open stay where they are.</li>
+  <li><b>Picture in picture works.</b> The sidebar's picture in picture button did nothing and could leave the video black when you came back to the tab. The floating window was being blocked by the Mac's sandbox for every site, not only YouTube. It now opens from a background tab, and if it ever can't, the video stays in the page and Koan says why.</li>
+  <li><b>History on Back and Forward, kinds of reload on Reload.</b> Right-click, or click and hold, Back or Forward for that tab's history. The same on Reload offers Reload, Reload From Origin (⌥⌘R) and Reload Without Content Blockers, which turns blocking off for that one load.</li>
+  <li><b>Inspect Element.</b> With Settings ▸ Advanced ▸ Web Inspector on, Inspect Element is in the page's right-click menu, as it should have been.</li>
+  <li><b>Glance's buttons</b> no longer shift their icons when you point at them.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.7/Koan-0.1.7.zip" length="19197358" type="application/octet-stream" sparkle:edSignature="TlgcJ/rugod95iN7IY4ksC1FBpyEkPBLGX+xsrf2uhIKPIIUdXSzW2HXsExpT6bBW2wh5VNidVHhDXMad0gaCA=="/>
+        </item>
+        <item>
             <title>0.1.6</title>
             <pubDate>Thu, 12 Nov 2026 06:42:44 -0500</pubDate>
             <sparkle:version>9</sparkle:version>
@@ -127,6 +145,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: +HRiSjtBZ4eoUIsIqWowW472sjcGzuD3ZLxnM9aUAg4v/dVjYRPO3NhktWvMYAXHzqwypb+hBRliCOXfcjBJAw==
-length: 12795
+edSignature: SS0UUuxfiy6dvoZxQMmxwNs3VWEkYjpnb7w8ulEVipQhnRm73iW5YAvi2b+/zOOvZSlMgMH8phcpnQKHj+QHCw==
+length: 15085
 -->
