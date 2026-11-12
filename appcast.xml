@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.10</title>
+            <pubDate>Thu, 12 Nov 2026 18:01:48 -0500</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.10</h2>
+<ul>
+  <li><b>The now playing card minimizes.</b> The chevron on the card folds it into a slim pill with the artwork, the title and play / pause; click the pill for the full controls again. Both show playback as a brush stroke that follows the live state: it draws along as the track plays, rests when paused, and finishes with a small flourish when the track ends.</li>
+  <li><b>Several things playing at once each get a card.</b> The most recent is the full card and the others stack above it as pills; past three, a line above them says how many more are playing and opens the rest.</li>
+  <li><b>Close a card you don't want.</b> The ✕ on a card puts it away without stopping the sound. It comes back the next time you visit that tab and leave it again.</li>
+  <li><b>Much less work while audio plays.</b> The speaker icon on a playing tab used to redraw the whole sidebar many times a second, which could cost around 40% of a core for as long as anything played. It no longer animates, and Koan now sits idle while music plays in the background.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.10/Koan-0.1.10.zip" length="20049323" type="application/octet-stream" sparkle:edSignature="wnuXwao+h69RPI4Iu2oJie2YP5m9lcZkY9v+KZvPAEZY18+oUGjEEC8IAb+9nPnf4iUkAjg7m92B9eLd7GdMDg=="/>
+        </item>
+        <item>
             <title>0.1.9</title>
             <pubDate>Thu, 12 Nov 2026 15:06:52 -0500</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -150,32 +166,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.1/Koan-0.1.1.zip" length="18208477" type="application/octet-stream" sparkle:edSignature="hfLTEfjcWlPEm3IbLsj24UMITwch//4TZ60jWyG4YIZ2Jvd7szqqzDJF+VgsS4/5YdQjcN1914VwUcNt4+XPDg=="/>
         </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 11 Nov 2026 07:09:20 -0500</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Koan 0.1.0</h2>
-<p>The first Koan: Safari's engine with Zen's sidebar.</p>
-<ul>
-  <li><b>A sidebar that is the browser.</b> Workspaces with their own colours, essentials, pinned tabs, nested folders and live folders that follow a feed or a GitHub repository. Collapse it to icons, put it on either side, or hide it in compact mode.</li>
-  <li><b>More than one page at a time.</b> Split view with up to four panes, and Glance for a quick look at a link without leaving the page.</li>
-  <li><b>Reading.</b> Reader mode, find in page, on-device translation, page zoom remembered per site, and Hide Distracting Items.</li>
-  <li><b>Private by default.</b> Trackers and ads are blocked, sites ask before using the camera, microphone or location, private windows leave nothing behind, and Koan sends no telemetry.</li>
-  <li><b>Kept apart.</b> Containers give a workspace its own sign-ins; profiles are separate Koans with their own everything.</li>
-  <li><b>Your things come with you.</b> Import tabs, bookmarks and history from Zen, Chrome, Arc and Safari. History and bookmarks are searchable from the address bar.</li>
-  <li><b>Passwords and AutoFill.</b> Saved logins, contact details and cards are kept in your keychain and filled with Touch ID.</li>
-  <li><b>Extensions and web apps.</b> Safari and Chrome web extensions run in Koan, and any site can open as an app in a window of its own.</li>
-  <li><b>Built for agents, when you want them.</b> <code>koan</code>, a command-line tool and MCP server, ships inside the app and stays off until you turn it on in Settings.</li>
-  <li><b>Updates</b> are signed and verified before they install.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.0/Koan-0.1.0.zip" length="18187658" type="application/octet-stream" sparkle:edSignature="VUicaNbyFeJ2aOPu5vrBYbloJDBnfiLnh/7RsLT95PZOClvxj8kgw3pF5HDHk+UYFbXj6t4tf8vhwxOgXMHsDw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: mJ+NYNcLtxIw1yxkI86UnrgF8orf/xoI06UPlfD4J5VyS0mpO9IWXEhV/QDdIMuAOmnXlVyD9Gly9l+RKkBPDA==
-length: 18987
+edSignature: uAUNv26QFTw+xMZPsxF2pgG0DB9GFhVK4OwjQxf4IGZMRw22i6quT/FVhSuHTQbZKxu10hgH2k38K0uapghaDA==
+length: 18419
 -->
