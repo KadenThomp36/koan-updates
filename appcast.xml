@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.11</title>
+            <pubDate>Thu, 12 Nov 2026 19:18:28 -0500</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.11</h2>
+<ul>
+  <li><b>A Glance moves into what it becomes.</b> Open as Tab grows the card onto the page until it is the tab. Open in Split View sends the card to its pane while the page under it moves into the other. Close shrinks it back toward the link it came from. Each is one motion of the same page: nothing reloads, and what was playing keeps playing.</li>
+  <li><b>Opening a Glance is smoother,</b> with a shorter worst frame than before, and choosing Split no longer stalls for a moment on heavy pages.</li>
+  <li>With Reduce Motion on, each of these is a short cross-fade instead.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.11/Koan-0.1.11.zip" length="20106733" type="application/octet-stream" sparkle:edSignature="FgObMzVr55HrsbLEdFJ1WcP5K9WyQwuv05YodvTkoPYdNx/EtSiJV2rxC5Ww7d06u5RSRnNUUl4vs9XqzrtFDg=="/>
+        </item>
+        <item>
             <title>0.1.10</title>
             <pubDate>Thu, 12 Nov 2026 18:01:48 -0500</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -152,23 +167,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.2/Koan-0.1.2.zip" length="18228098" type="application/octet-stream" sparkle:edSignature="S7vGfAd7Oho5gApwSYi5C6lc9LNOKuj93F72ul4No357FUTZKDvs6daTYuHCA1r8aunmKIJ/UFH8urIF/7ZiAg=="/>
         </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Wed, 11 Nov 2026 08:34:13 -0500</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Koan 0.1.1</h2>
-<ul>
-  <li><b>A smoother sidebar.</b> In compact mode the sidebar now glides in and out as one piece, and the page settles once instead of resizing as it goes.</li>
-  <li><b>Agents reach further.</b> A click, menu or drop aimed at a sidebar row that is scrolled out of view now scrolls it into view first.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.1/Koan-0.1.1.zip" length="18208477" type="application/octet-stream" sparkle:edSignature="hfLTEfjcWlPEm3IbLsj24UMITwch//4TZ60jWyG4YIZ2Jvd7szqqzDJF+VgsS4/5YdQjcN1914VwUcNt4+XPDg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: uAUNv26QFTw+xMZPsxF2pgG0DB9GFhVK4OwjQxf4IGZMRw22i6quT/FVhSuHTQbZKxu10hgH2k38K0uapghaDA==
-length: 18419
+edSignature: UUfbGGUd4CUpw0gXKStzRoaDUEMEPjVlFt480g1cwiVn7YaHHZb7PkfSjwfc2Xut5vHcG89UMbajzLoWaU+tDQ==
+length: 18702
 -->
