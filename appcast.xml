@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.15</title>
+            <pubDate>Fri, 13 Nov 2026 20:07:51 -0500</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.15</h2>
+<ul>
+  <li><b>Icons for sites you haven’t opened on this Mac.</b> A tab, pinned tab, essential or bookmark that arrived by sync, or from another device’s list, used to show a blank icon until you opened it here. Koan now asks the site itself for its icon while the row is on screen: a request with no cookies, never to an icon service, never for private windows, and once per site. Settings ▸ Privacy has a switch for it.</li>
+  <li>Clear History also forgets which sites were asked for an icon.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.15/Koan-0.1.15.zip" length="20535399" type="application/octet-stream" sparkle:edSignature="v0jV4MXe2vT37SJ3Sl89A++1OdNpY6MtSIextaFwp6W/Irs/Nit98iYyjsUPyJzPeqZns07ph3y5f3PDvl9RDg=="/>
+        </item>
+        <item>
             <title>0.1.14</title>
             <pubDate>Fri, 13 Nov 2026 15:55:30 -0500</pubDate>
             <sparkle:version>17</sparkle:version>
@@ -150,27 +164,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.6/Koan-0.1.6.zip" length="18994745" type="application/octet-stream" sparkle:edSignature="m8rCYOjivsrNCLQstrglGMZAS6s5XruS+tptdm8Oot5gbD64IHkO7uwxuXopQxVhMwiTrfnXhuyspGhVTEFdAQ=="/>
         </item>
-        <item>
-            <title>0.1.5</title>
-            <pubDate>Thu, 12 Nov 2026 01:06:13 -0500</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Koan 0.1.5</h2>
-<ul>
-  <li><b>Pages run faster.</b> One of Koan's own page scripts was slowing every click and keypress on every site. On Speedometer 3.1 Koan went from 23% behind Safari to about 5% behind. Pages with many images also load faster with content blocking on.</li>
-  <li><b>Links that open other apps.</b> A link meant for another app (Slack, Zoom, Teams, VS Code, Mail) used to do nothing. Koan now asks "Open this link in Slack?" and hands it over; tick "Always open Slack links from this site" and it won't ask again. A tab that was opened only to launch the app closes itself. Settings ▸ Privacy &amp; Security has the switch and the list of sites you've allowed.</li>
-  <li><b>Tab size.</b> Settings ▸ Appearance ▸ Tab size: Compact is the sidebar as it was; Comfortable makes the rows, titles and icons a little larger.</li>
-  <li><b>The sidebar follows you.</b> When you switch to a tab that isn't in view (⌃Tab, ⌘T, ⌘1–9, a link that opens in front), the list scrolls just enough to show it. It stays put while you're scrolling or dragging, and for tabs opened in the background.</li>
-  <li><b>Hundreds of tabs cost much less.</b> In a workspace of a hundred tabs or more, Koan builds only the rows near the part of the sidebar you can see. With 300 tabs it uses about 70 MB less memory, starts sooner, and switching workspaces and compact mode are several times smoother.</li>
-  <li><b>History and Bookmarks.</b> On macOS 26 these lists could ignore a scroll or take seconds to respond when they were long. They are built differently now, use less memory and scroll faster.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.5/Koan-0.1.5.zip" length="18900563" type="application/octet-stream" sparkle:edSignature="GqefwNMiThUfvtMWFNDJAq3k8401J6IGmNbVejyYTYjMnKv/OmFHoW9u7LWPXlxqqXCD/Bfja1F8zJ+8uN2MAA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 1idRYxF4QDajS4JCb+TDc5o1CUmmXHzPcwdzSGtInm5ttUrYNOk85HmT+2D7MzV/pcHEghm8xuLIO24rvJOAAw==
-length: 19037
+edSignature: Hh25cYk8SK9YpqwNkxZp+GcBN38k2z7XfqXAouyAFu+ELiSPTKzE3GyYjTj5fJ2SIAsxYRyYiaW5HsPDwzhlAA==
+length: 17951
 -->
