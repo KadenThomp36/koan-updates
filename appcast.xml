@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.16</title>
+            <pubDate>Tue, 17 Nov 2026 09:48:46 -0500</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.16</h2>
+<ul>
+  <li><b>A quick, clean Clear.</b> Tabs below your pins fade and slide away in a short motion. The page you’re viewing stays open, along with visible split panes and pages in your other windows.</li>
+  <li><b>Previews stay beside their tabs.</b> Hover cards wait for the hovered row’s position and follow it when it changes, fixing previews that occasionally appeared near the top or bottom of the window.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.16/Koan-0.1.16.zip" length="20537693" type="application/octet-stream" sparkle:edSignature="pT7WlNmQqkaadK30iaycneVBzWC2akwwMB5cGsykSUorvBJebK5ms85SKFvu2AC+ViFR6Ey2iAgavGiojFFxDg=="/>
+        </item>
+        <item>
             <title>0.1.15</title>
             <pubDate>Fri, 13 Nov 2026 20:07:51 -0500</pubDate>
             <sparkle:version>18</sparkle:version>
@@ -147,26 +161,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.7/Koan-0.1.7.zip" length="19197358" type="application/octet-stream" sparkle:edSignature="TlgcJ/rugod95iN7IY4ksC1FBpyEkPBLGX+xsrf2uhIKPIIUdXSzW2HXsExpT6bBW2wh5VNidVHhDXMad0gaCA=="/>
         </item>
-        <item>
-            <title>0.1.6</title>
-            <pubDate>Thu, 12 Nov 2026 06:42:44 -0500</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Koan 0.1.6</h2>
-<ul>
-  <li><b>Sync, through your own iCloud.</b> Settings ▸ Sync is off until you turn it on. With it on, your workspaces, pinned tabs, folders, essentials and bookmarks are the same on every Mac signed in to your Apple Account. History and a list of each Mac's open tabs are separate switches, off to begin with; Library ▸ Other Devices shows what's open elsewhere. Private windows, passwords and website data never sync. Koan has no servers of its own: the data sits in your iCloud, where only you can read it. The welcome flow offers the switch to new installs.</li>
-  <li><b>When sync can't run, it says why.</b> Not signed in to iCloud, iCloud Drive off, storage full, no network: each has its own sentence in Settings ▸ Sync instead of an error code.</li>
-  <li><b>Compact mode with hundreds of tabs.</b> Sliding the sidebar in and out had become slower in 0.1.5 for workspaces of several hundred tabs. It is smooth again: about a third less time per frame at 300 tabs.</li>
-  <li><b>Saved logins and AutoFill move to a newer keychain.</b> The first launch of this version moves Koan's saved logins, AutoFill details and live-folder token from the login keychain to the Mac's data-protection keychain. Nothing to do, and nothing should ask for a password.</li>
-  <li><b>Bookmarks arriving by sync keep their dates</b>, so sorting by date added is the same on every Mac.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.6/Koan-0.1.6.zip" length="18994745" type="application/octet-stream" sparkle:edSignature="m8rCYOjivsrNCLQstrglGMZAS6s5XruS+tptdm8Oot5gbD64IHkO7uwxuXopQxVhMwiTrfnXhuyspGhVTEFdAQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Hh25cYk8SK9YpqwNkxZp+GcBN38k2z7XfqXAouyAFu+ELiSPTKzE3GyYjTj5fJ2SIAsxYRyYiaW5HsPDwzhlAA==
-length: 17951
+edSignature: Zm2qh6D2YDYPynRZKKHbrB7bPXbqrxU+XirlGokExsPZt1K5mkZlXk4c+FE/2w23kf9RDcOwqlH3FKpmP1LQDA==
+length: 16990
 -->
