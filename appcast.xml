@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.20</title>
+            <pubDate>Thu, 19 Nov 2026 12:01:26 -0500</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.20</h2>
+<ul>
+  <li><b>Feel a drag in your mouse.</b> If you have a Logitech MX Master 4, it can now tap as you drag tabs, the way a trackpad does: lightly each time the place you’d drop moves, a little firmer when a folder or workspace opens under you and when you let go. Turn on Settings ▸ Tabs ▸ Haptics on an MX Master 4. It needs Logi Options+ and its free HapticWeb plugin, and Koan only ever talks to it on your own Mac.</li>
+  <li><b>Ink that holds its shape.</b> The now-playing card’s flowing ink no longer turns into bars after you minimize the card and bring it back, and its dry-brush texture reads cleanly on the minimized pill.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.20/Koan-0.1.20.zip" length="20804838" type="application/octet-stream" sparkle:edSignature="+hFq4JzhdKU69krC7dUi4ddSN4b40wq7CoaFJT0m1J974aB09xUjsEFgmOy00zlpgUCOtYtF/qtd4uKExHXeBw=="/>
+        </item>
+        <item>
             <title>0.1.19</title>
             <pubDate>Thu, 19 Nov 2026 10:39:04 -0500</pubDate>
             <sparkle:version>22</sparkle:version>
@@ -141,25 +155,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.11/Koan-0.1.11.zip" length="20106733" type="application/octet-stream" sparkle:edSignature="FgObMzVr55HrsbLEdFJ1WcP5K9WyQwuv05YodvTkoPYdNx/EtSiJV2rxC5Ww7d06u5RSRnNUUl4vs9XqzrtFDg=="/>
         </item>
-        <item>
-            <title>0.1.10</title>
-            <pubDate>Thu, 12 Nov 2026 18:01:48 -0500</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Koan 0.1.10</h2>
-<ul>
-  <li><b>The now playing card minimizes.</b> The chevron on the card folds it into a slim pill with the artwork, the title and play / pause; click the pill for the full controls again. Both show playback as a brush stroke that follows the live state: it draws along as the track plays, rests when paused, and finishes with a small flourish when the track ends.</li>
-  <li><b>Several things playing at once each get a card.</b> The most recent is the full card and the others stack above it as pills; past three, a line above them says how many more are playing and opens the rest.</li>
-  <li><b>Close a card you don't want.</b> The ✕ on a card puts it away without stopping the sound. It comes back the next time you visit that tab and leave it again.</li>
-  <li><b>Much less work while audio plays.</b> The speaker icon on a playing tab used to redraw the whole sidebar many times a second, which could cost around 40% of a core for as long as anything played. It no longer animates, and Koan now sits idle while music plays in the background.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.10/Koan-0.1.10.zip" length="20049323" type="application/octet-stream" sparkle:edSignature="wnuXwao+h69RPI4Iu2oJie2YP5m9lcZkY9v+KZvPAEZY18+oUGjEEC8IAb+9nPnf4iUkAjg7m92B9eLd7GdMDg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ery0NzqfLxOoWmWQDfADegqTb50ex3tWbxa7hYk7K4mwSsqHWpIIGG9ETukO81q1BDTRizA0Tlr2hLZkDGaXCQ==
-length: 15276
+edSignature: Ss3c4E8e9tyVL+pt0hMaVGhC75bSn9o8tDRASt5tay6Nyr+/scYiX/ZtW9N1yt7bkzQ3gjTjW7IGLGCVWIDvBQ==
+length: 14867
 -->
