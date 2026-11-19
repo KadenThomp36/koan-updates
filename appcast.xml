@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.19</title>
+            <pubDate>Thu, 19 Nov 2026 10:39:04 -0500</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.19</h2>
+<ul>
+  <li><b>You drag the tab itself.</b> Picking up a tab lifts the row you grabbed, at its own size, and it follows your pointer. Let go in the sidebar and that same row settles straight into its place, a pin, a folder or an essential’s tile, with nothing waiting in between. Let go where it can’t go and it slides back home.</li>
+  <li><b>Ink that’s still wet.</b> While something plays, the now-playing card’s ensō carries the dry-brush streaks of a real stroke, and they drift slowly along it as the brush lays down ink; pause, and they dry where they are. Live streams that never advance now look alive too. The artwork tucks under the stroke all the way round and softens into grain only toward the gap.</li>
+  <li><b>Volume in the card.</b> The card’s speaker shows how loud the tab is. Click it for a volume slider with a mute button beside it; it tucks away again when you move off the card. The level holds as the tab moves between pages.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.19/Koan-0.1.19.zip" length="20793291" type="application/octet-stream" sparkle:edSignature="Br6JEIJdMAROE3A76tYkZhwI+2UrdrLGm1RVPUTcMltJ9Q02VurcRqr1KwJuFuN5pAaEcI8OPP5ZJjMNYplvBQ=="/>
+        </item>
+        <item>
             <title>0.1.18</title>
             <pubDate>Thu, 19 Nov 2026 09:54:06 -0500</pubDate>
             <sparkle:version>21</sparkle:version>
@@ -142,26 +157,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.10/Koan-0.1.10.zip" length="20049323" type="application/octet-stream" sparkle:edSignature="wnuXwao+h69RPI4Iu2oJie2YP5m9lcZkY9v+KZvPAEZY18+oUGjEEC8IAb+9nPnf4iUkAjg7m92B9eLd7GdMDg=="/>
         </item>
-        <item>
-            <title>0.1.9</title>
-            <pubDate>Thu, 12 Nov 2026 15:06:52 -0500</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Koan 0.1.9</h2>
-<ul>
-  <li><b>Saved logins belong to a space.</b> A login can be kept to one container, to the default one, or offered everywhere. In a workspace with its own container Koan offers that container's logins first, then the ones kept everywhere, and never another container's, so a work space doesn't offer your personal account for the same site. New logins are saved for the space you're in (the prompt lets you choose Everywhere). The Passwords window shows each login's container, filters by it and moves logins between them. Everything saved before this version is offered everywhere, as it was.</li>
-  <li><b>Import passwords from another browser.</b> Koan ▸ Import Passwords… reads a profile of Chrome, Arc, Brave, Edge, Vivaldi, Ardia or another Chromium browser straight into the container you pick. macOS asks you to allow Koan to use that browser's key from your keychain; only you can start it. A CSV can go into a chosen container too.</li>
-  <li><b>Import from Ardia.</b> File ▸ Import From Browser… brings each Ardia space in as a workspace with its own container: tiles become essentials, pinned tabs stay pinned with their names, pinned groups become folders, and bookmarks and history come too. It adds to what you have, takes a backup first, and running it again adds nothing twice.</li>
-  <li><b>One Glance setting for the click.</b> "⌘-click opens a Glance" from 0.1.8 is gone: the "Open links in a Glance with" menu already offers ⌘-Click, and if you had the switch on, the menu is set to ⌘-Click for you. With ⌘-Click chosen, middle-click and ⇧⌘-click still open tabs.</li>
-  <li><b>A page can no longer open a Glance by itself,</b> or use a faked ⌘-click to open background tabs; only your own clicks do.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.9/Koan-0.1.9.zip" length="19841050" type="application/octet-stream" sparkle:edSignature="vsZsiJP9bfU9qPQUSD4Vp28PnsflZz+uqy50IRtmV5DkT1DoxB1q5AwvAsvCubX62W+PktxTR93FVvr9ZayCBA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: rNgjQwrRs7Wjh9jBRBFi1fxuuAv0U87UxfTdwy/zRUY52mCgDBj6Zd7EyafepqvkqMz+arMDbGbiQSTfpkF/Cw==
-length: 16057
+edSignature: ery0NzqfLxOoWmWQDfADegqTb50ex3tWbxa7hYk7K4mwSsqHWpIIGG9ETukO81q1BDTRizA0Tlr2hLZkDGaXCQ==
+length: 15276
 -->
