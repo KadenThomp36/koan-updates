@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.17</title>
+            <pubDate>Thu, 19 Nov 2026 09:11:17 -0500</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.17</h2>
+<ul>
+  <li><b>Drags you can see.</b> When you drag a tab, it lifts out of the sidebar and the rows slide apart to open its place where it would land, whether that’s among your tabs, in your pins, inside a folder or in the essentials. Letting go drops it exactly there, with nothing jumping.</li>
+  <li><b>Feel each step.</b> On a Force Touch trackpad, a light tick marks every new place as you drag, and a firmer one marks a folder or workspace springing open and the drop itself.</li>
+  <li><b>Folders and essentials move too.</b> A dragged folder takes everything in it along as one piece. Essentials tiles slide from cell to cell, and a tab dragged up into them gets an empty tile waiting for it.</li>
+  <li><b>No more drops that bounce back.</b> Letting go just beside a folder’s tabs, or in the sidebar’s edges, now lands where you meant instead of sending the tab back where it came from.</li>
+  <li><b>A now-playing card in Koan’s own hand.</b> What’s playing in a background tab now sits inside Koan’s ensō: the brush writes the circle as the track plays, its leading edge breaking into bristles, and the artwork fades into grain beneath it. Minimized and in the collapsed sidebar it’s the same disc.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.17/Koan-0.1.17.zip" length="20689862" type="application/octet-stream" sparkle:edSignature="xNmR4zB0aBt+Rn8gI4BwkvShkGk7KCNnpABgN4pSbPXSr3rNq0iYP4zxdNburqSy94TgfibsMRF2WQ3BfXlcBA=="/>
+        </item>
+        <item>
             <title>0.1.16</title>
             <pubDate>Tue, 17 Nov 2026 09:48:46 -0500</pubDate>
             <sparkle:version>19</sparkle:version>
@@ -143,27 +160,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.8/Koan-0.1.8.zip" length="19236400" type="application/octet-stream" sparkle:edSignature="3xMvXSVLkDtdrju/y9Y3s7U6ehcpYxOKrOkV8yBZ4uQlT1ep1p7YiWkbV/hsJdFnSj+ggAoYoVA57yt01b79DA=="/>
         </item>
-        <item>
-            <title>0.1.7</title>
-            <pubDate>Thu, 12 Nov 2026 12:55:00 -0500</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Koan 0.1.7</h2>
-<ul>
-  <li><b>The page moves with the sidebar.</b> Turning compact mode on or off, or collapsing the sidebar to icons, used to slide the sidebar and then snap the page to its new width. The page's edge now follows the sidebar's edge the whole way, its content reflowing as it goes, and it is faster with hundreds of tabs than the snap was.</li>
-  <li><b>Routes that keep a site out of a workspace.</b> Settings ▸ Tabs ▸ Routing has a second list, Never Open: "github.com never in Personal". A matching link opened from that workspace goes to one you choose, or to the last workspace you used that it may open in. The tab menu's Add Route for Domain offers it too. Tabs already open stay where they are.</li>
-  <li><b>Picture in picture works.</b> The sidebar's picture in picture button did nothing and could leave the video black when you came back to the tab. The floating window was being blocked by the Mac's sandbox for every site, not only YouTube. It now opens from a background tab, and if it ever can't, the video stays in the page and Koan says why.</li>
-  <li><b>History on Back and Forward, kinds of reload on Reload.</b> Right-click, or click and hold, Back or Forward for that tab's history. The same on Reload offers Reload, Reload From Origin (⌥⌘R) and Reload Without Content Blockers, which turns blocking off for that one load.</li>
-  <li><b>Inspect Element.</b> With Settings ▸ Advanced ▸ Web Inspector on, Inspect Element is in the page's right-click menu, as it should have been.</li>
-  <li><b>Glance's buttons</b> no longer shift their icons when you point at them.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.7/Koan-0.1.7.zip" length="19197358" type="application/octet-stream" sparkle:edSignature="TlgcJ/rugod95iN7IY4ksC1FBpyEkPBLGX+xsrf2uhIKPIIUdXSzW2HXsExpT6bBW2wh5VNidVHhDXMad0gaCA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Zm2qh6D2YDYPynRZKKHbrB7bPXbqrxU+XirlGokExsPZt1K5mkZlXk4c+FE/2w23kf9RDcOwqlH3FKpmP1LQDA==
-length: 16990
+edSignature: 04lvJSutOb7BEdtZrx2xktuA7DmMQInx7vFS7TSC4saKq9DJRrCyM9ae31RhY6hTjAP+E/+Ca7oHIsCaBH+gBw==
+length: 16619
 -->
