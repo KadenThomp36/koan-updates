@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Koan</title>
         <item>
+            <title>0.1.21</title>
+            <pubDate>Fri, 20 Nov 2026 16:20:51 -0500</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Koan 0.1.21</h2>
+<p>For agents that use Koan on your behalf.</p>
+<ul>
+  <li><b>Agents can attach files.</b> An agent can now give a page a file however the page asks for one: a file field, an Upload button or menu, or a drop zone. The page gets the file as if you’d chosen it, and no open panel appears on your screen. When you click Upload yourself, you still get the usual panel.</li>
+  <li><b>Clicks that count.</b> When an agent clicks something on a page you can see, it’s now a real click, so sites that ignore clicks made by scripts respond to it.</li>
+  <li><b>Covered windows stay current.</b> While an agent works in a window that’s behind others, its page keeps drawing, so menus it opens are where they should be and show up in its screenshots.</li>
+  <li><b>Nothing waits for ever.</b> If something an agent asked for can’t finish, Koan now says so within a couple of minutes instead of leaving it waiting.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.21/Koan-0.1.21.zip" length="20912400" type="application/octet-stream" sparkle:edSignature="tQRYs4464+8UxSFjaZotzRLrSKxVfDYBtrYOL9htFJdNv0LmKKMwsZZb54GrY9yCvep6xDm6Pkv82agr8t+ZAA=="/>
+        </item>
+        <item>
             <title>0.1.20</title>
             <pubDate>Thu, 19 Nov 2026 12:01:26 -0500</pubDate>
             <sparkle:version>23</sparkle:version>
@@ -140,24 +157,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.12/Koan-0.1.12.zip" length="20298394" type="application/octet-stream" sparkle:edSignature="5MUV8qdd866xOJbqBMCixmiJjdpcUag2iSWQIqwZ7d+s3TW/uGViPyk+azuIV0c6Px3N/2GHkFOzqKjV4keZDA=="/>
         </item>
-        <item>
-            <title>0.1.11</title>
-            <pubDate>Thu, 12 Nov 2026 19:18:28 -0500</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Koan 0.1.11</h2>
-<ul>
-  <li><b>A Glance moves into what it becomes.</b> Open as Tab grows the card onto the page until it is the tab. Open in Split View sends the card to its pane while the page under it moves into the other. Close shrinks it back toward the link it came from. Each is one motion of the same page: nothing reloads, and what was playing keeps playing.</li>
-  <li><b>Opening a Glance is smoother,</b> with a shorter worst frame than before, and choosing Split no longer stalls for a moment on heavy pages.</li>
-  <li>With Reduce Motion on, each of these is a short cross-fade instead.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/KadenThomp36/koan-updates/releases/download/v0.1.11/Koan-0.1.11.zip" length="20106733" type="application/octet-stream" sparkle:edSignature="FgObMzVr55HrsbLEdFJ1WcP5K9WyQwuv05YodvTkoPYdNx/EtSiJV2rxC5Ww7d06u5RSRnNUUl4vs9XqzrtFDg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Ss3c4E8e9tyVL+pt0hMaVGhC75bSn9o8tDRASt5tay6Nyr+/scYiX/ZtW9N1yt7bkzQ3gjTjW7IGLGCVWIDvBQ==
-length: 14867
+edSignature: dsL4ayIk9iTOEFD2WK+vjlOUcR32Mz3quVCJHB+mhbOuNCAomKwt1IGD6hjp2d62aOpL2ZPPvXZr0u2ZyEb/BQ==
+length: 15195
 -->
